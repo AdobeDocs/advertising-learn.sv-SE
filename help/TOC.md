@@ -1,17 +1,17 @@
 ---
-user-guide-title: Adobe Advertising Tutorials
-user-guide-description: En samling videor och självstudiekurser för Adobe-reklam.
-breadcrumb-title: Advertising Tutorials
-solution: Advertising, Advertising Cloud
-source-git-commit: d30a1b72f953f0357d5f2d5c170153226369e519
+user-guide-title: Självstudiekurser om Adobe Advertising
+user-guide-description: En samling videor och självstudiekurser om Adobe Advertising.
+breadcrumb-title: Självstudiekurser om Advertising
+solution: Advertising
+source-git-commit: 2dc8823f7daba768f758491d60799340a6ff4c7c
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
 
-# Adobe Advertising Tutorials {#tutorials}
+# Självstudiekurser om Adobe Advertising {#tutorials}
 
 + [Översikt](overview.md)
 + DSP {#dsp}
