@@ -1,8 +1,11 @@
 ---
-title: Skapa Adobe Advertising Dashboards med Adobe Analytics
+title: Skapa instrumentpaneler för Adobe Advertising med Adobe Analytics
 description: Lär dig tekniker för att skapa en kontrollpanel för Adobe-annonsering för övervakning av livekampanjer
+level: Intermediate, Experienced
+topic: Integrations
+feature: Integration with Adobe Analytics
 exl-id: ec90c659-4cbc-4be7-9478-269a21c98b98
-source-git-commit: c299b88f75a62194bd22b2d220ab525045f78ea7
+source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
@@ -13,6 +16,6 @@ ht-degree: 0%
 
 *Annonsörer med[!DNL Adobe Analytics for Adobe Advertising]*
 
-Lär dig tekniker för att skapa en kontrollpanel för annonsering i Adobe för övervakning av livekampanjer.
+Lär dig tekniker för att skapa en instrumentpanel i Adobe Advertising för övervakning av livekampanjer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33922)
