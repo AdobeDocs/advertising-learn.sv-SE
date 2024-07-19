@@ -1,6 +1,6 @@
 ---
-title: Skapa [!DNL Analytics] Profiler för aktivering och rapportering av Adobe-annonsering
-description: Lär dig hur du använder Adobe Analytics för att skapa robusta pooler för återmarknadsföring på webbplatser för Adobe Advertising.
+title: Skapa [!DNL Analytics] profiler för aktivering och rapportering av Adobe Advertising
+description: Lär dig hur du använder Adobe Analytics för att skapa stabila pooler för återmarknadsföring på webbplatser för återmarknadsföring i Adobe Advertising.
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ---
 
-# Skapa [!DNL Analytics] Profiler för aktivering och rapportering av Adobe-annonsering
+# Skapa [!DNL Analytics] profiler för aktivering och rapportering av Adobe Advertising
 
 *Annonsörer med[!DNL Adobe Analytics for Adobe Advertising]*
 
-Lär dig hur du använder Adobe Analytics för att skapa robusta pooler för återmarknadsföring på webbplatser för Adobe Advertising.
+Lär dig hur du använder Adobe Analytics för att skapa stabila pooler för återmarknadsföring på webbplatser för återmarknadsföring i Adobe Advertising.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33503)

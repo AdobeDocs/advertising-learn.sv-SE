@@ -1,5 +1,5 @@
 ---
-title: Skapa [!DNL Analytics] Segment för aktivering och rapportering
+title: Skapa [!DNL Analytics] segment för aktivering och rapportering
 description: Lär dig hur du använder Adobe Advertising-dimensioner för att skapa segment för tydligare rapportering och analys.
 level: Intermediate, Experienced
 topic: Integrations
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Skapa [!DNL Analytics] Segment för aktivering och rapportering
+# Skapa [!DNL Analytics] segment för aktivering och rapportering
 
 *Annonsörer med[!DNL Adobe Analytics for Adobe Advertising]*
 

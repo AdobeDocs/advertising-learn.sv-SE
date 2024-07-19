@@ -14,13 +14,13 @@ ht-degree: 25%
 
 # Självstudiekurser om Adobe Advertising
 
-Dessa videokurser, tillsammans med [Adobe Advertising dokumentation](https://experienceleague.adobe.com/docs/advertising-cloud.html), hjälper er att använda Adobe Advertising för att få kundinsikter snabbare än någonsin.
+Dessa videokurser, tillsammans med [Adobe Advertising-dokumentationen](https://experienceleague.adobe.com/docs/advertising-cloud.html), hjälper dig att använda Adobe Advertising för att få kundinsikter snabbare än någonsin.
 
 Videoklipp finns för:
 
-* DSP
+* Advertising DSP
 
-* Advertising DSP and Advertising Search integration with other Adobe Experience Cloud products and services
+* Advertising DSP och Advertising Search är integrerade med andra produkter och tjänster från Adobe Experience Cloud
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content

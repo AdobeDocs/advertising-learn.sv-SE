@@ -1,5 +1,5 @@
 ---
-title: Skapa [!DNL Analytics] Anpassade mått med data från Adobe Advertising
+title: Skapa [!DNL Analytics] anpassade mått med Adobe Advertising-data
 description: Lär dig användbara anpassade mätvärden att skapa när du använder data från Adobe Advertising i Adobe Analytics.
 level: Intermediate, Experienced
 topic: Integrations
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Skapa [!DNL Analytics] Anpassade mått med data från Adobe Advertising
+# Skapa anpassade [!DNL Analytics]-mått med Adobe Advertising-data
 
 *Annonsörer med[!DNL Adobe Analytics for Adobe Advertising]*
 

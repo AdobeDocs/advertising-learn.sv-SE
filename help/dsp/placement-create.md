@@ -1,5 +1,5 @@
 ---
-title: Så här skapar du en standardbildskärmsplacering för DSP
+title: Skapa en standardbildskärmsplacering för DSP
 description: Lär dig hur du skapar en standardbildskärmsplacering.
 feature: DSP Placements
 exl-id: 5eb60b2b-e3c7-4faf-887c-f14a9c50d2b5
@@ -10,8 +10,8 @@ ht-degree: 0%
 
 ---
 
-# Så här skapar du en standardbildskärmsplacering
+# Skapa en standardbildskärmsplacering
 
-Lär dig hur du skapar en standardvisningsplacering för en DSP kampanj.
+Lär dig hur du skapar en standardvisningsplats för en DSP kampanj.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340454)

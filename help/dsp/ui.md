@@ -1,5 +1,5 @@
 ---
-title: DSP kontostruktur och användargränssnitt
+title: DSP och användargränssnitt
 description: Lär dig DSP kontostruktur och användargränssnitt.
 feature: DSP Campaign Data Views, DSP Audiences, DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs, DSP Custom Reports
 exl-id: c7786a04-a0ab-4ae6-8d5c-da68713f18d9

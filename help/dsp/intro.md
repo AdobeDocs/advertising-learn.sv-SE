@@ -12,6 +12,6 @@ ht-degree: 0%
 
 # Introduktion till Adobe Advertising DSP
 
-Lär dig mer om DSP, inklusive hur det passar in i Adobe Experience Cloud, vad det kan göra för annonsörer och hur en integrering med Adobe Analytics och ytterligare tjänster kan vara till fördel för era mediekampanjer.
+Läs om Advertising DSP, inklusive hur det passar in i Adobe Experience Cloud, vad det kan göra för annonsörer och hur integrering med Adobe Analytics och ytterligare tjänster kan vara till fördel för era mediekampanjer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339200)

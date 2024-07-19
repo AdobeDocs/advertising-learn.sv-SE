@@ -10,8 +10,8 @@ ht-degree: 0%
 
 ---
 
-# Så här skapar du ett paket
+# Skapa ett paket
 
-Lär dig hur du skapar ett paket för en DSP kampanj.
+Lär dig skapa ett paket för en DSP kampanj.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339257)

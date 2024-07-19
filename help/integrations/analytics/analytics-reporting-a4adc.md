@@ -1,6 +1,6 @@
 ---
 title: Rapportering med Adobe Advertising marknadsföringskanaler
-description: Se hur data för genomgång och klickbar post i Adobe Advertising fungerar med Adobe Analytics [!DNL Marketing Channels].
+description: Lär dig hur Adobe Advertising-vy och klickbara startdata fungerar med Adobe Analytics [!DNL Marketing Channels].
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 *Annonsörer med[!DNL Adobe Analytics for Adobe Advertising]*
 
-Se hur data för genomgång och klickbar post i Adobe Advertising fungerar med Adobe Analytics [!DNL Marketing Channels].
+Lär dig hur Adobe Advertising-vy och klickbara inmatningsdata fungerar med Adobe Analytics [!DNL Marketing Channels].
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)

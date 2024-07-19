@@ -1,5 +1,5 @@
 ---
-title: Skapa rapporter om webbplatsposter för annonsering i Adobe
+title: Skapa rapporter för webbplatsposter i Adobe Advertising
 description: Lär dig hur du skapar en rapport om webbplatsinlägg från Adobe Advertising för att övervaka veckodag, tidpunkt på dagen, webbläsare och geografiska påverkan.
 level: Intermediate, Experienced
 topic: Integrations
