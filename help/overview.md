@@ -14,7 +14,7 @@ ht-degree: 25%
 
 # Självstudiekurser om Adobe Advertising
 
-Dessa videokurser, tillsammans med [Adobe Advertising-dokumentationen](https://experienceleague.adobe.com/en/docs/advertising), hjälper dig att använda Adobe Advertising för att få kundinsikter snabbare än någonsin.
+Dessa videokurser, tillsammans med [Adobe Advertising-dokumentationen](https://experienceleague.adobe.com/sv/docs/advertising), hjälper dig att använda Adobe Advertising för att få kundinsikter snabbare än någonsin.
 
 Videoklipp finns för:
 
