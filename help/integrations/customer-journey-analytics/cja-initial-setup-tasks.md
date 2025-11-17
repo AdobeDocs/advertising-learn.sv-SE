@@ -6,9 +6,9 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 hidefromtoc: true
-source-git-commit: e1ff921683f43266a56bcc4d4ee8870e186ca165
+source-git-commit: de07d9c78e3b7704079b93a03b190e8ff180f655
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Läs om de inledande stegen som krävs för att skicka konverteringshändelser till Adobe Advertising, där du senare kan inkludera dem i optimeringsmål.
 
-När du har utfört de här stegen och gett datavyn till ditt Adobe-kontoteam kan du slutföra de ytterligare stegen för att konfigurera integreringen. Mer information om de ytterligare stegen finns i [den fullständiga dokumentationen](https://experienceleague.adobe.com/sv/docs/advertising/integrations/customer-journey-analytics/overview).
+När du har utfört de här stegen och gett datavyn till ditt Adobe-kontoteam kan du slutföra de ytterligare stegen för att konfigurera integreringen. Mer information om de ytterligare stegen finns i [den fullständiga dokumentationen](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
 
 ## Ökning
 
@@ -29,9 +29,8 @@ När du har utfört de här stegen och gett datavyn till ditt Adobe-kontoteam ka
 
 ## Skapa en datavy i Analysis Workspace med mätvärden som ska exporteras
 
->[!VIDEO](https://video.tv.adobe.com/v/3476760?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476733?learn=on)
 
 >[!MORELIKETHIS]
 >
->* [Översikt över integrationen mellan Adobe Advertising och Customer Journey Analytics](/help/integrations/customer-journey-analytics/overview.md)
-
+>* [Översikt över integrationen mellan Adobe Advertising och Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
