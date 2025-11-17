@@ -5,10 +5,10 @@ breadcrumb-title: Självstudiekurser om Advertising
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: 7db450a4a32002b8d4a586d4b90b65421fa5e71e
+source-git-commit: af0409a219fa4ec52ea4e5939c3c68940156e968
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 14%
+source-wordcount: '114'
+ht-degree: 17%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 14%
    + [Skapa en kampanjanalys före lansering med Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Skapa Adobe Advertising Dashboards med Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [Skapa [!DNL Analytics] anpassade mått med Adobe Advertising Data](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
-+ [[!DNL Customer Journey Analytics]](/help/integrations/customer-journey-analytics/cja-initial-setup-tasks.md)
++ [Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-initial-setup-tasks.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
