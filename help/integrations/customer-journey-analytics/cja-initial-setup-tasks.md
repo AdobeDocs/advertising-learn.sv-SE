@@ -29,7 +29,7 @@ När du har utfört de här stegen och gett datavyn till ditt Adobe-kontoteam ka
 
 ## Skapa en datavy i Analysis Workspace med mätvärden som ska exporteras
 
->[!VIDEO](https://video.tv.adobe.com/v/3476733?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476760?captions=swe&learn=on)
 
 >[!MORELIKETHIS]
 >
