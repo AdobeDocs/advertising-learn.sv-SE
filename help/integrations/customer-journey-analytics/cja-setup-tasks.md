@@ -35,7 +35,7 @@ När du har utfört de här stegen och gett datavyn till ditt Adobe-kontoteam ka
 
 >[!MORELIKETHIS]
 >
->* [Översikt över integrationen mellan Adobe Advertising och Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Översikt över integrationen mellan Adobe Advertising och Customer Journey Analytics](https://experienceleague.adobe.com/sv/docs/advertising/integrations/customer-journey-analytics/overview)
 
 ## Steg för att visa kampanjdata för Adobe Advertising i Customer Journey Analytics
 
@@ -57,4 +57,4 @@ När du har utfört de här stegen och gett datavyn till ditt Adobe-kontoteam ka
 
 >[!MORELIKETHIS]
 >
->* [Skriven dokumentation](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
+>* [Skriven dokumentation](https://experienceleague.adobe.com/sv/docs/advertising/integrations/customer-journey-analytics/overview).
