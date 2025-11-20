@@ -23,7 +23,7 @@ När du har utfört de här stegen och gett datavyn till ditt Adobe-kontoteam ka
 
 ### Ökning
 
->[!VIDEO](https://video.tv.adobe.com/v/3476810)
+>[!VIDEO](https://video.tv.adobe.com/v/3476827?captions=swe)
 
 ### Steg 1: Konfigurera ett platskonto i Customer Journey Analytics
 
@@ -53,7 +53,7 @@ När du har utfört de här stegen och gett datavyn till ditt Adobe-kontoteam ka
 
 ### Steg 3: Konfigurera beständiga inställningar och härledda fält för Adobe Advertising-dimensioner
 
->[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476936?captions=swe&learn=on)
 
 >[!MORELIKETHIS]
 >
